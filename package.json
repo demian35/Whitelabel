@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/demian35/Whitelabel/issues"
   },
-  "homepage": "https://github.com/demian35/Whitelabel#readme"
+  "homepage": "https://github.com/demian35/Whitelabel#readme",
+  "dependencies": {
+    "telegraf": "^4.11.2"
+  }
 }
